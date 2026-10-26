@@ -1,0 +1,10 @@
+# Ground-motion records cannot be redistributed; never commit them.
+*.AT2
+*.at2
+__pycache__/
+*.pyc
+.pytest_cache/
+FILE_LOG.md
+FILE_INDEX.json
+FILE_HISTORY.jsonl
+.file-log.lock
